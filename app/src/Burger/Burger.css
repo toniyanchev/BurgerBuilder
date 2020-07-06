@@ -1,0 +1,12 @@
+.Burger {
+	margin: auto;
+	border: 1px solid red;
+	width: 60%;
+	text-align: center;
+}
+.red {
+	color: red;
+}
+.bold {
+	font-weight: bold;
+}
