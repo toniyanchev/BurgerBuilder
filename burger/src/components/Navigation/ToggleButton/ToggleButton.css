@@ -1,0 +1,15 @@
+.ToggleButton {
+	height: 100%;
+	cursor: pointer;
+}
+
+.ToggleButton img {
+	height: 50px;
+	width: 50px;
+}
+
+@media (min-width: 500px) {
+	.ToggleButton {
+		display: none;
+	}
+}
